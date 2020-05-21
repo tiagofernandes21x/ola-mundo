@@ -1,3 +1,4 @@
-# ola mundo
- primeiro repositório
-como tu estás 
+# olá, mundo!
+# primeiro repositório
+# Repositório criado numa aula ao vivo. 
+# teste
